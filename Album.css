@@ -1,0 +1,87 @@
+.row{
+	clear: both;
+}
+
+
+.nav-justify{
+	background-color: ##F39DAE;
+	color: black;
+}
+
+.jumbotron{
+	background-image: url("vintage.jpg");
+	text-align: center;
+	background-repeat: no-repeat;
+	
+
+}
+.lead{
+	color: black;
+}
+.display-4{
+	color: black;
+	text-align: center;
+	margin-top: 5px;
+
+}
+
+
+.btn-lg{
+	background-color: #CD798A;
+	border-color: #eeeeee;
+	color: black;
+	margin-left: 45%;
+}
+.btn-warning{
+	background-color: #F39DAE;
+	color: black;
+}
+
+	
+p{
+	color: white;
+	text-align: center;
+
+}
+.card{
+	border-color: #eeeeee;
+	border-radius: 20px;
+	border-width: 10px;
+
+}
+.card-body{
+	text-align: center;
+
+}
+.btn-primary{
+	background-color:#F39DAE;
+	color: white;
+	border-color: #d8d8d8;
+
+}
+
+.section-1{
+	margin: 20px 30px 20px 30px;
+}
+
+.section-2{
+	margin: 20px 30px 20px 30px;
+}
+
+.section-3{
+	margin: 20px 30px 20px 30px;
+}
+
+.camara{
+	width: 40px;
+	margin-left: 50%;
+	padding-bottom: 10px;
+}
+.copyright{
+	background-color: #f2f2f2;
+	height: 54px;
+	text-align: center;
+}	
+h6{
+	text-align: left;
+}
